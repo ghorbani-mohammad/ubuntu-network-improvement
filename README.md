@@ -8,4 +8,4 @@
    - [Link](https://www.imaginelinux.com/enable-bbr-on-ubuntu-22-04/)
 
 2. Run TCP-Tweaker for some improvements on network settings
-  `bash <(curl -Ls https://github.com/ghorbani-mohammad/ubuntu-network-improvement/blob/main/tcp-tweaker --ipv4)`
+  - `bash <(curl -Ls https://github.com/ghorbani-mohammad/ubuntu-network-improvement/blob/main/tcp-tweaker --ipv4)`
