@@ -9,3 +9,4 @@
 
 2. Run TCP-Tweaker for some improvements on network settings
   - `bash <(curl -Ls https://raw.githubusercontent.com/ghorbani-mohammad/ubuntu-network-improvement/main/tcp-tweaker --ipv4)`
+  - You can see optimizations on `/etc/sysctl.conf` file
